@@ -1,1 +1,1 @@
-API_KEY = "AIzaSyCkDN_KZYNHAJf7SmCSRvdlzJQDTF5o5WM"
+API_KEY = "Use Your API_KEY here"
